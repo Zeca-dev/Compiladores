@@ -1,0 +1,3 @@
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/CMakeFiles/rebuild_cache.dir
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/CMakeFiles/calc.dir
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/CMakeFiles/edit_cache.dir

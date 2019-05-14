@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/lexer.cpp
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+string
+-
+iostream
+-
+parser.h
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/parser.h
+unistd.h
+-
+
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/parser.cpp
+iostream
+-
+string.h
+-
+unordered_map
+-
+math.h
+-
+sstream
+-
+stddef.h
+-
+libintl.h
+-
+alloca.h
+-
+malloc.h
+-
+stdlib.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/media/zeca/Armazenamento/Compiladores/Unidade III/Trabalho III/CalcPlus/Build/parser.h
+
